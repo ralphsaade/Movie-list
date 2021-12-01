@@ -1,0 +1,52 @@
+* {
+  box-sizing: border-box;
+  font-family: 'Inter', sans-serif;
+}
+
+.HeaderRow {
+  margin: 50px 0px;
+  border-bottom: 2px solid #073988;
+  
+}
+
+ .cardgrid 
+ {display: flex; margin-bottom: 20px;}
+ .cardtitle,  .cardgrid a,  .cardgrid a:hover
+ {font-size: 14px;
+  color:#073988;
+font-weight: bold;
+margin-left: 10px;
+margin-top: 7px;}
+#root
+{background: #f7f7f7;}
+#cont
+{background: #ffffff;}
+.form-inline
+{display: flex;
+  margin-bottom: 27px;
+  margin-top: 20px;}
+  #searchButton
+  {background-color: #073988;border-radius: 0px;}
+  .search input
+  {border-radius: 0px;}
+  .image2
+  {
+    margin: 10px 20%;
+  }
+  h1{
+    font-size: 18px!important; color:#073988;
+    font-weight: bold;
+  }
+  h4{
+    font-size: 12px!important;;
+  }
+  .back
+  {
+    color: #7b5c57;
+  }
+  h5.info
+  {
+    font-size: 14px!important;
+    color: #e30d17;
+margin: 20px 0px;
+  }
